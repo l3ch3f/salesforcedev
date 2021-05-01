@@ -1,5 +1,6 @@
 public with sharing class Flower {
      public static Integer wilt(Integer numberOfPetals){
+        //  flower example
         if(numberOfPetals >= 1){
             numberOfPetals--;
         }
